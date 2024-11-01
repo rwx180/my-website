@@ -1,0 +1,288 @@
+Uri: http://ayatali.com/
+File Name: D:\ayatali.com\index-1.htm
+Content Type: text/html
+
+Uri: http://ayatali.com/blog
+File Name: D:\ayatali.com\blog-1.html
+Content Type: text/html
+
+Uri: http://ayatali.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\ayatali.com\cdn-cgi\images\browser-bar-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/cf-icon-browser.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-browser-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-cloud-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/cf-icon-error.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-error-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-horizontal-arrow-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/cf-icon-ok.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-ok-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/cf-icon-server.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-server-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-no-screenshot-error-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-no-screenshot-warn-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\ayatali.com\cdn-cgi\images\icon-exclamation-1.png
+Content Type: image/png
+
+Uri: http://ayatali.com/cdn-cgi/l/email-protection
+File Name: D:\ayatali.com\cdn-cgi\l\email-protection-1.html
+Content Type: text/html
+
+Uri: http://ayatali.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\ayatali.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min-1.js
+Content Type: application/javascript
+
+Uri: http://ayatali.com/cdn-cgi/styles/cf.errors.css
+File Name: D:\ayatali.com\cdn-cgi\styles\cf.errors-1.css
+Content Type: text/css
+
+Uri: http://ayatali.com/storage/ayat/1729423092_05J.png
+File Name: D:\ayatali.com\storage\ayat\1729423092_05J.png
+Content Type: image/png
+
+Uri: https://ayatali.com/
+File Name: D:\ayatali.com\index.htm
+Content Type: text/html
+
+Uri: https://ayatali.com/about
+File Name: D:\ayatali.com\about.html
+Content Type: text/html
+
+Uri: https://ayatali.com/ayat/assets/css/about.css
+File Name: D:\ayatali.com\ayat\assets\css\about.css
+Content Type: text/css
+
+Uri: https://ayatali.com/ayat/assets/css/blog.css
+File Name: D:\ayatali.com\ayat\assets\css\blog.css
+Content Type: text/css
+
+Uri: https://ayatali.com/ayat/assets/css/landing.css?v=1.0.1
+File Name: D:\ayatali.com\ayat\assets\css\landing.css
+Content Type: text/css
+
+Uri: https://ayatali.com/ayat/assets/css/portfolio.css
+File Name: D:\ayatali.com\ayat\assets\css\portfolio.css
+Content Type: text/css
+
+Uri: https://ayatali.com/ayat/assets/css/style.css
+File Name: D:\ayatali.com\ayat\assets\css\style-1.css
+Content Type: text/css
+
+Uri: https://ayatali.com/ayat/assets/css/style.css?v=1.0.2
+File Name: D:\ayatali.com\ayat\assets\css\style.css
+Content Type: text/css
+
+Uri: https://ayatali.com/ayat/assets/fonts/ArbFONTS-LamaSans-Bold.ttf
+File Name: D:\ayatali.com\ayat\assets\fonts\ArbFONTS-LamaSans-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ayatali.com/ayat/assets/fonts/ArbFONTS-LamaSans-Medium.ttf
+File Name: D:\ayatali.com\ayat\assets\fonts\ArbFONTS-LamaSans-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ayatali.com/ayat/assets/fonts/ArbFONTS-LamaSans-Regular.ttf
+File Name: D:\ayatali.com\ayat\assets\fonts\ArbFONTS-LamaSans-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ayatali.com/ayat/assets/fonts/K2D-Bold.ttf
+File Name: D:\ayatali.com\ayat\assets\fonts\K2D-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ayatali.com/ayat/assets/fonts/K2D-Medium.ttf
+File Name: D:\ayatali.com\ayat\assets\fonts\K2D-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ayatali.com/ayat/assets/fonts/K2D-Regular.ttf
+File Name: D:\ayatali.com\ayat\assets\fonts\K2D-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ayatali.com/ayat/assets/fonts/Southam_Demo.otf
+File Name: D:\ayatali.com\ayat\assets\fonts\Southam_Demo.otf
+Content Type: application/x-font-otf
+
+Uri: https://ayatali.com/ayat/assets/imgs/Arrow.png
+File Name: D:\ayatali.com\ayat\assets\imgs\Arrow.png
+Content Type: image/png
+
+Uri: https://ayatali.com/ayat/assets/imgs/background.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\background.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/imgs/lamb.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\lamb.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/imgs/no-connection.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\no-connection.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/imgs/soon.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\soon.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/imgs/work1.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\work1.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/imgs/work2.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\work2.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/imgs/work3.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\work3.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/imgs/work4.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\work4.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/imgs/work5.webp
+File Name: D:\ayatali.com\ayat\assets\imgs\work5.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/ayat/assets/js/blog.js
+File Name: D:\ayatali.com\ayat\assets\js\blog.js
+Content Type: application/javascript
+
+Uri: https://ayatali.com/ayat/assets/js/index.js
+File Name: D:\ayatali.com\ayat\assets\js\index.js
+Content Type: application/javascript
+
+Uri: https://ayatali.com/ayat/assets/js/portfolio.js
+File Name: D:\ayatali.com\ayat\assets\js\portfolio.js
+Content Type: application/javascript
+
+Uri: https://ayatali.com/ayat/assets/svgs/logo.svg
+File Name: D:\ayatali.com\ayat\assets\svgs\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://ayatali.com/blog
+File Name: D:\ayatali.com\blog.html
+Content Type: text/html
+
+Uri: https://ayatali.com/blog/3
+File Name: D:\ayatali.com\blog\3.html
+Content Type: text/html
+
+Uri: https://ayatali.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\ayatali.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/cf-icon-browser.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/cf-icon-error.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/cf-icon-ok.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/cf-icon-server.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: D:\ayatali.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\ayatali.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://ayatali.com/cdn-cgi/l/email-protection
+File Name: D:\ayatali.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://ayatali.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\ayatali.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://ayatali.com/cdn-cgi/styles/cf.errors.css
+File Name: D:\ayatali.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://ayatali.com/portfolio
+File Name: D:\ayatali.com\portfolio.html
+Content Type: text/html
+
+Uri: https://ayatali.com/portfolio/1
+File Name: D:\ayatali.com\portfolio\1.html
+Content Type: text/html
+
+Uri: https://ayatali.com/storage/ayat/1729333685_T3i.png
+File Name: D:\ayatali.com\storage\ayat\1729333685_T3i.png
+Content Type: image/png
+
+Uri: https://ayatali.com/storage/ayat/1729343471_0r7.png
+File Name: D:\ayatali.com\storage\ayat\1729343471_0r7.png
+Content Type: image/png
+
+Uri: https://ayatali.com/storage/ayat/1729371446_1cK.png
+File Name: D:\ayatali.com\storage\ayat\1729371446_1cK.png
+Content Type: image/png
+
+Uri: https://ayatali.com/storage/ayat/1729413062_qHD.png
+File Name: D:\ayatali.com\storage\ayat\1729413062_qHD.png
+Content Type: image/png
+
+Uri: https://ayatali.com/storage/ayat/1729423043_qTF.png
+File Name: D:\ayatali.com\storage\ayat\1729423043_qTF.png
+Content Type: image/png
+
+Uri: https://ayatali.com/storage/ayat/1729585543_BSh.webp
+File Name: D:\ayatali.com\storage\ayat\1729585543_BSh.webp
+Content Type: image/webp
+
+Uri: https://ayatali.com/storage/ayat/1729585792_TQH.png
+File Name: D:\ayatali.com\storage\ayat\1729585792_TQH.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js
+File Name: D:\ayatali.com\npm\alpinejs@3.x.x\dist\cdn.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
+File Name: D:\ayatali.com\npm\axios\dist\axios.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js
+File Name: D:\ayatali.com\npm\medium-zoom@1.1.0\dist\medium-zoom.min.js
+Content Type: application/javascript
+
